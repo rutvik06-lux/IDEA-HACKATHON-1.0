@@ -61,7 +61,7 @@ You can deploy this project **instantly** to Netlify, Vercel, or GitHub Pages.
 ### Local Setup
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/yourusername/student-portal.git
+   https://github.com/rutvik06-lux/IDEA-HACKATHON-1.0
    ```
 2. **Navigate to folder**
    ```bash
@@ -69,9 +69,9 @@ You can deploy this project **instantly** to Netlify, Vercel, or GitHub Pages.
    ```
 3. **Run locally**
    - Open `index.html` directly in your browser.
-   - OR run with a local server (recommended for Google Sign-in):
+   - OR run with a local server 
      ```bash
-     npx http-server .
+     https://6995a47c9ecbb2a1d03fd2b2--onboardingagent50.netlify.app/
      ```
 
 ---
