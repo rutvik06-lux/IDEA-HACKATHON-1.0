@@ -71,7 +71,7 @@ You can deploy this project **instantly** to Netlify, Vercel, or GitHub Pages.
    - Open `index.html` directly in your browser.
    - OR run with a local server 
      ```bash
-     https://6995a47c9ecbb2a1d03fd2b2--onboardingagent50.netlify.app/
+     https://studentonboardingsystem.netlify.app/
      ```
 
 ---
